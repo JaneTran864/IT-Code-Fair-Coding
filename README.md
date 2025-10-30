@@ -1,4 +1,4 @@
-![mermaid-diagram](https://github.com/user-attachments/assets/f505f9ec-b19c-4acf-b3a3-2d58c0c7ebe1)# **Gesture Trainer** — *Train Your Own Action Recognition Model in Minutes*  
+# **Action Recognition** — *Train Your Own Action Recognition Model in Minutes*  
 
 **No coding. No setup. Just record, train, and use.**  
 
