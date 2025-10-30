@@ -11,7 +11,7 @@
 
 ## **Why This Exists**
 
-> **"I want my computer to recognize *my* gestures — like waving, clapping, or sign language — without being a programmer."**
+> **"I want my computer to recognise *my* gestures — like waving, clapping, or sign language — without being a programmer."**
 
 **Gesture Trainer** makes this possible.
 
@@ -21,11 +21,11 @@
 - All in **Google Colab + your browser**
 
 Perfect for:  
-Educators  
-Students  
-Sign language learners  
-Makers & hobbyists  
-Anyone curious about computer vision
+- Educators  
+- Students  
+- Sign language learners  
+- Makers & hobbyists  
+- Anyone curious about computer vision
 
 ---
 
@@ -107,7 +107,14 @@ Anyone curious about computer vision
 ---
 
 ## **Workflow for Non-Technical Users**
-![](screenshots/workflow.png) 
+```mermaid
+flowchart TD
+    A[Record 5+ clips per action] --> B[Click: Train LSTM]
+    B --> C[Wait 10–30 sec]
+    C --> D[Click: Load Latest Model]
+    D --> E[Go to Live Tab → Test]
+    E --> F[See updated recognition!]
+```
 
 ## **Your Data Stays Private**
 
