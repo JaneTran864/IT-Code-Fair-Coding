@@ -21,24 +21,24 @@
 - All in **Google Colab + your browser**
 
 Perfect for:  
-✅ Educators  
-✅ Students  
-✅ Sign language learners  
-✅ Makers & hobbyists  
-✅ Anyone curious about computer vision
+Educators  
+Students  
+Sign language learners  
+Makers & hobbyists  
+Anyone curious about computer vision
 
 ---
 
-## 🚀 **Live Demo (Try It Now!)**
+## **Live Demo (Try It Now!)**
 
-👉 [**Open in Google Colab**](https://colab.research.google.com/drive/1oUZ8oPbDD37RU9o6sNpXI27t2_rHDFof)  
+[**Open in Google Colab**](https://colab.research.google.com/drive/1oUZ8oPbDD37RU9o6sNpXI27t2_rHDFof)  
 *(Click the badge above — no install needed)*
 
 > **Just allow webcam access and follow the tabs!**
 
 ---
 
-## 🎯 **How It Works (3 Simple Steps)**
+## **How It Works (3 Simple Steps)**
 
 | Step | What You Do |
 |------|-------------|
@@ -48,7 +48,7 @@ Perfect for:
 
 ---
 
-## 🖼️ **Screenshots**
+## **Screenshots**
 
 | Collect Tab | Train Tab | Live Recognition |
 |------------|-----------|------------------|
@@ -56,20 +56,20 @@ Perfect for:
 
 ---
 
-## 🛠️ **Tech Behind the Magic**
+## **Tech Behind the Magic**
 
 | Component | Role |
 |---------|------|
 | **MediaPipe Holistic** | Detects pose, face, and hand landmarks in real-time |
 | **LSTM Neural Network** | Learns temporal patterns from keypoint sequences |
 | **Gradio** | Beautiful, interactive web UI in your browser |
-| **Google Colab** | Free GPU + no setup |
+| **Google Colab** | GPU + no setup |
 
 > **No Docker. No CUDA. No `pip install hell`.**
 
 ---
 
-## 📋 **Quick Start Guide**
+## **Quick Start Guide**
 
 1. **Open the Colab notebook** (link above)
 2. **Run all cells** (`Runtime > Run all`)
@@ -85,21 +85,19 @@ Perfect for:
 
 ---
 
-## 🎨 **Custom Actions You Can Teach**
+## **Custom Actions You Can Teach**
 
 | Action | Use Case |
 |-------|----------|
 | `hello` | Greeting detection |
 | `thanks` | Gratitude in sign language |
 | `stop` | Safety gesture |
-| `dance_move_1` | Choreography tool |
-| `exercise_squat` | Fitness tracker |
 
 > **Teach *any* repeatable motion!**
 
 ---
 
-## 💡 **Tips for Best Results**
+## **Tips for Best Results**
 
 - **Good lighting**, face the camera
 - **Consistent background**
@@ -109,16 +107,16 @@ Perfect for:
 
 ---
 
-## 🔄 **Workflow for Non-Technical Users**
+## **Workflow for Non-Technical Users**
 ![](screenshots/workflow.png) 
 
-## 🔒 **Your Data Stays Private**
+## **Your Data Stays Private**
 
 - All videos processed locally in your browser/Colab
 - Nothing uploaded to servers
 - You own the model and data
 
-## 🤝 **Contribute**
+## **Contribute**
 We welcome:
 
 - New UI translations
@@ -128,7 +126,7 @@ We welcome:
 
 Just open an issue or PR!
 
-## ✨ **Made With ❤️ for Accessible Computer Vision**
+## **Made With for Accessible Computer Vision**
 
 > **"Computer Vision shouldn't require a PhD. It should require curiosity."**
 
