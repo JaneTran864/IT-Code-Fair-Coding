@@ -1,4 +1,4 @@
-# 🎥 **Gesture Trainer** — *Train Your Own Action Recognition Model in Minutes*  
+# **Gesture Trainer** — *Train Your Own Action Recognition Model in Minutes*  
 
 **No coding. No setup. Just record, train, and use.**  
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 **Why This Exists**
+## **Why This Exists**
 
 > **"I want my computer to recognize *my* gestures — like waving, clapping, or sign language — without being a programmer."**
 
